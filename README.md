@@ -80,3 +80,8 @@ Boa prática:
 **PUT -** https://meusite.com/produtos
 
 **DELETE -** https://meusite.com/produtos
+
+
+**Sobre o AJAX**
+
+AJAX é o acrônimo para Asycronous JavaScript and XML, apesar do XML no nome, essa tecnologia é compatível com outros formatos de arquivos. O AJAX possibilita buscas e envios de dados para o servidor sem precisar recarregar a página. Isso foi uma grande revolução e teve uma enorme melhoria na experiência do usuário, afinal agora ele não precisaria esperar a página toda recarregar para que um formulário fosse enviado, por exemplo. As requisições, o envio e a solicitação de dados na Internet é feita utilizando o HTTP, quando o navegador solicita uma página HTML para o servidor. Essa solicitação, também chamada de requisição, é feita utilizando o protocolo HTTP.
